@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm David</h1>
+<h1 align="center" id="macropower-title">:wave: Hello there! I'm David</h1>
 <h3 align="center">Currently an Information Systems Engineering Student</h3>
-<img align="right" alt="Coding" width="400" src="https://i.ibb.co/RDMvrwX/banner-1.png"
+<img align="right" alt="Jokes Card" width="400" src="https://readme-jokes.vercel.app/api"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=david-zorin&label=Profile%20views&color=0e75b6&style=flat" alt="david-zorin" /> </p>
 
