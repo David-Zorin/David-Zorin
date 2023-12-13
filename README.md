@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm David</h1>
 <h3 align="center">Currently an Information Systems Engineering Student</h3>
-<img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmRobWcxbDFsZXhnYWg4ZDVoMTlqOGUxN3p2aHRzZHY1ODNvbmRoZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif"
+<img align="right" alt="Coding" width="400" src="https://i.ibb.co/RDMvrwX/banner-1.png"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=david-zorin&label=Profile%20views&color=0e75b6&style=flat" alt="david-zorin" /> </p>
 
