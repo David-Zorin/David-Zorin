@@ -1,3 +1,7 @@
+<div align="center">
+  <img height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2tubHJrNjBkaW8xY2lnd2dnbWMxajVnaTR5NzlrMHNuaGE1cmpiOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gVlgj80ZLp9yo/giphy.gif">
+</div>
+
 <h1 align="center" id="macropower-title">:wave: Hello there! I'm David</h1>
 <h3 align="center">Currently an Information Systems Engineering Student</h3>
 <img align="right" alt="Jokes Card" width="400" src="https://readme-jokes.vercel.app/api" />
