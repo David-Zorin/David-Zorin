@@ -1,4 +1,4 @@
-# Hi, I'm David Zorin 👋
+# Hi, I'm David 👋
 
 **Software & Information Systems Engineering** student graduating in **February 2026**.  
 
