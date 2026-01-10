@@ -1,28 +1,51 @@
-<div align="center">
-  <img height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2tubHJrNjBkaW8xY2lnd2dnbWMxajVnaTR5NzlrMHNuaGE1cmpiOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gVlgj80ZLp9yo/giphy.gif">
-</div>
+# Hi, I'm David Zorin 👋
 
-<h1 align="center" id="macropower-title">:wave: Hello there! I'm David</h1>
-<h3 align="center">Currently Software and Information Systems Engineering Student</h3>
+**Software & Information Systems Engineering** student graduating in **February 2026**.  
 
+---
 
+### 🛠️ Currently...
+- 🎓 Completing my final semester.
+- 🦀 Mastering Backend Engineering & Systems Design through **Boot.dev**.
+- 🤖 Building a **Smart Cart AI Assistant** for my engineering capstone.
+- 🔍 Seeking a **Software Engineer** or **Backend Developer** role.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/david-zorin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="david zorin" height="40" width="40" /></a>
-</p>
+---
 
+### 💻 Tech Stack & Tools
+- **Languages:** Java, TypeScript, JavaScript, SQL, (Learning Rust 🦀)
+- **Backend:** Node.js, Next.js (API Routes), OCSF Framework, REST APIs
+- **Frontend:** React, TailwindCSS, JavaFX
+- **Databases/DevOps:** MySQL, MongoDB, JDBC, Git, Docker
 
-### 🛠️ Technical Toolbox
+---
 
-**Programming Languages**
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+### 📂 Featured Projects
 
-**Web & Databases**
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![SQL](https://img.shields.io/badge/sql-%2300758F.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+#### 🛒 [Smart Cart AI Assistant](https://github.com/tomerot/personalized-smart-cart-with-ai-assistance)
+* **Final Year Capstone**
 
-**Engineering & QA**
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![QA](https://img.shields.io/badge/Quality_Assurance-blue?style=for-the-badge)
+#### ☕ [BiteMe - Java Management System](https://github.com/David-Zorin/BiteMe)
+* **Grade: 96/100** | Full-stack Java Desktop Application.
+* Built a complex **Client-Server architecture** using the OCSF Framework and MySQL.
+* Implemented **Role-Based Access Control (RBAC)** for 5+ user types and automated business analytics reporting.
 
+#### ⚔️ [Pokedex CLI](https://github.com/David-Zorin/PokeDex)
+* **TypeScript & Node.js:** An interactive REPL application for managing Pokémon data.
+* Optimized performance using an **in-memory cache** for API requests to reduce latency and rate-limiting.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=david-zorin&label=Profile%20views&color=0e75b6&style=flat" alt="david-zorin" /> </p>
+#### 🗓️ [BaDingDong - Attendance Platform](https://github.com/David-Zorin/BadingDong)
+* **Full-Stack Next.js Application:** A comprehensive management system for academic institutions.
+* Implemented secure authentication with **NextAuth.js** and data persistence with **MongoDB**.
+* Features an **Analytics Dashboard** for lecturers and a formal **Appeals Workflow** for students.
+
+---
+
+### 📈 Achievements & Recognition
+- **Dean’s List (2025):** Recognized for academic excellence during my third year of engineering studies.
+
+---
+
+### 📫 Connect with me
+[<img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="david zorin" height="30" width="30" />](https://linkedin.com/in/david-zorin)
+<br>
