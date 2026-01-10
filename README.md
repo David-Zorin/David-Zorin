@@ -8,17 +8,7 @@
 - 🎓 Completing my final semester.
 - 🦀 Mastering Backend Engineering & Systems Design through **Boot.dev**.
 - 🤖 Building a **Smart Cart AI Assistant** for my engineering capstone.
-- 🔍 Seeking a **Software Engineer** or **Backend Developer** role.
-
----
-
-### 💻 Tech Stack & Tools
-- **Languages:** Java, TypeScript, JavaScript, SQL, (Learning Rust 🦀)
-- **Backend:** Node.js, Next.js (API Routes), OCSF Framework, REST APIs
-- **Frontend:** React, TailwindCSS, JavaFX
-- **Databases/DevOps:** MySQL, MongoDB, JDBC, Git, Docker
-
----
+- 🔍 Seeking for a **Junior role**
 
 ### 📂 Featured Projects
 
