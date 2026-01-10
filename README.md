@@ -1,6 +1,6 @@
 # Hi, I'm David 👋
 
-**Software & Information Systems Engineering** student graduating in **February 2026**.  
+**Information Systems Engineering & Software** student graduating in **February 2026**.  
 
 ---
 
