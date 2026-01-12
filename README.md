@@ -16,7 +16,7 @@
 * **Final Year Capstone**
 
 #### ☕ [BiteMe - Java Management System](https://github.com/David-Zorin/BiteMe)
-* **Grade: 96/100** | Full-stack Java Desktop Application.
+* Full-stack Java Desktop Application.
 * Built a complex **Client-Server architecture** using the OCSF Framework and MySQL.
 * Implemented **Role-Based Access Control (RBAC)** for 5+ user types and automated business analytics reporting.
 
