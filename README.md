@@ -20,7 +20,7 @@
 * Implemented **Role-Based Access Control (RBAC)** for 5+ user types and automated business analytics reporting.
 
 #### 🔗 [Shorten-URL](https://github.com/David-Zorin/URL-Shortener)
-* FastAPI, PostgreSQL, & Docker: A containerized backend service for high-concurrency URL redirection.
+* **FastAPI, PostgreSQL, & Docker**: A containerized backend service for high-concurrency URL redirection.
 * Base62 encoding to map database IDs to unique short codes.
 
 #### ⚔️ [Pokedex CLI](https://github.com/David-Zorin/PokeDex)
