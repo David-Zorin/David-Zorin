@@ -7,7 +7,6 @@
 ### 🛠️ Currently...
 - 🎓 Completing my final semester.
 - 🦀 Mastering Backend Engineering & Systems Design through **Boot.dev**.
-- 🤖 Building a **Smart Cart AI Assistant** for my engineering capstone.
 - 🔍 Seeking for a **Junior role**
 
 ### 📂 Featured Projects
@@ -19,6 +18,10 @@
 * Full-stack Java Desktop Application.
 * Built a complex **Client-Server architecture** using the OCSF Framework and MySQL.
 * Implemented **Role-Based Access Control (RBAC)** for 5+ user types and automated business analytics reporting.
+
+#### 🔗 [Shorten-URL](https://github.com/David-Zorin/URL-Shortener)
+* FastAPI, PostgreSQL, & Docker: A containerized backend service for high-concurrency URL redirection.
+* Base62 encoding to map database IDs to unique short codes.
 
 #### ⚔️ [Pokedex CLI](https://github.com/David-Zorin/PokeDex)
 * **TypeScript & Node.js:** An interactive REPL application for managing Pokémon data.
