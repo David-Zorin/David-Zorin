@@ -1,7 +1,7 @@
 # Hi, I'm David 👋
 
-**Information Systems Engineering & Software** student graduating in **February 2026**.  
-
+**Information Systems Engineering & Software** student graduating in **February 2026**.
+#### 👉 **Terminal Portfolio [https://david-zorin.github.io/portfolio-terminal](https://david-zorin.github.io/portfolio-terminal/)**
 ---
 
 ### 🛠️ Currently...
